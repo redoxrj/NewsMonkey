@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "High hopes for Paris as British stars shine at Worlds",
+    "description": "Keely Hodgkinson, Katarina Johnson-Thompson and Josh Kerr will be among the British athletes targeting Olympic glory after world golds.",
+    "url": "http://www.bbc.co.uk/sport/athletics/66616001",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/C135/production/_130916494_-89583c37-b4e3-4f99-a574-2a8c7dc3df23.png",
+    "publishedAt": "2023-08-28T12:07:19.7210055Z",
+    "content": "Katarina Johnson-Thompson and Josh Kerr will be among the British athletes targeting Olympic glory in Paris after delivering spectacular golden moments at a thrilling World Championships.\r\nJohnson-Th… [+7823 chars]"
+    },
+    {
+    "source": {
+    "id": "bild",
+    "name": "Bild"
+    },
+    "author": "CHRISTIAN HORNUNG UND DIRK KRÜMPELMANN",
+    "title": "Hockey-EM: Bronze für die Frauen, Blech für die Männer! | Sport",
+    "description": "Bei der Hockey-EM in Gladbach gab statt zweimal Gold nur einmal Bronze",
+    "url": "https://www.bild.de/sport/2023/borussia-moenchengladbach/hockey-em-bronze-fuer-die-frauen-blech-fuer-die-maenner-85193942.bild.html",
+    "urlToImage": "https://images.bild.de/64eb436a71af787c3447e726/b262a370d239eefe5e4a9d0913b4b6f0,62ff886e?w=1280",
+    "publishedAt": "2023-08-27T12:52:21Z",
+    "content": "Nach der tollen Vorrunde bei der Hockey-EM in Gladbach war noch der Traum von zwei Europameistertiteln möglich. Doch am Ende blieb nur für die deutschen Frauen ein dickes Trostpflaster übrig die Welt… [+2535 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Shawna Chen",
+    "title": "Anchor Brewing Company to shutter after 127 years",
+    "description": "Many consider Anchor a San Francisco landmark in its own right due to its influence, which dates back to the Gold Rush.",
+    "url": "https://www.axios.com/local/san-francisco/2023/07/12/anchor-steam-beer-brewery-shut-down",
+    "urlToImage": "https://images.axios.com/ct7H_8tGytsOEvhaLKq5ko-fSbs=/0x0:6229x3504/1366x768/2023/07/12/1689187893264.jpg",
+    "publishedAt": "2023-07-12T21:41:11Z",
+    "content": "The historic Anchor Brewing Company, often called the godfather of steam beer, is shutting down operations after 127 years.\r\nWhy it matters: Many consider Anchor a San Francisco landmark in its own r… [+1830 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news-au",
+    "name": "ABC News (AU)"
+    },
+    "author": "Jarrod Lucas",
+    "title": "WA's great – and less-than-great – gold plots unearthed as price hits record high",
+    "description": "As long as gold has been mined people have tried to steal it. As the precious metal hits a record price, let's take a look back at some of the mad, bad and downright dumb ways crooks have tried to pocket the \"miner's privilege\".",
+    "url": "http://www.abc.net.au/news/2023-04-03/gold-stealing-history-western-australia-perth-mint/102170820",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6b65e441fca67b5f528dd09739d01b19?impolicy=wcms_crop_resize&cropH=540&cropW=959&xPos=0&yPos=0&width=862&height=485",
+    "publishedAt": "2023-04-02T23:12:49Z",
+    "content": "As long as there has been gold mining in Western Australia people have been trying to steal it. \r\nThat temptation has reached fever pitch with prices for the precious metal in March surpassing $3,000… [+14179 chars]"
+    },
+    {
+    "source": {
+    "id": "the-hindu",
+    "name": "The Hindu"
+    },
+    "author": "The Hindu",
+    "title": "In search of gold: On Tokyo Olympics",
+    "description": "The Olympic Games remain the greatest sporting event for fans and athletes alike",
+    "url": "https://www.thehindu.com/opinion/editorial/in-search-of-gold-the-hindu-editorial-on-tokyo-olympics-2021/article35478354.ece",
+    "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+    "publishedAt": "2021-07-22T18:32:00Z",
+    "content": "A medal can lose its lustre but the athletes sporting immortality is set in stone, such is the enduring allure of triumphs at the Olympics. Even a participant without any titles, is referred to as an… [+2521 chars]"
+    }
+    ]
+    }
